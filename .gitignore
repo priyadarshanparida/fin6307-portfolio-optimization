@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+
+# Virtual environments
+venv/
+.env
+.env/
+
+# Jupyter
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# Data and outputs (exclude large files)
+output/
+
+# macOS / Editor
+.DS_Store
+.vscode/
+*.swp
+
+# OneDrive temp files
+~$*
+EOF

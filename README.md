@@ -1,0 +1,1 @@
+Recent monetary-policy shifts in the United States have had significant implications for asset prices, valuation metrics, and portfolio risk. This project examines how interest-rate (monetary-policy) changes affect the performance and risk characteristics of two interest-sensitive sectors, i.e., Financials and Real Estate, within the U.S. equity market.
